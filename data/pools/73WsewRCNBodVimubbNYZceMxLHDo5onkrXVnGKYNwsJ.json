@@ -1,0 +1,34 @@
+{
+  "poolAddress": "73WsewRCNBodVimubbNYZceMxLHDo5onkrXVnGKYNwsJ",
+  "lpMintAddress": "CtvuP4TCPvP4pfzp7zyijJChquds6SSk4zC3g9WWQizR",
+  "vault0": "8g1UqANe1hFyN4k5mWyxgaPLs3pKi939aNBjx2ecHkWN",
+  "vault1": "5Xv1c7Bc17A8xKj5tEqfLAPxXnKxjDZ8FHaHP3rv5oqN",
+  "ammConfig": "5nWyCWXhJEaHmj8zJ1graq64dgfyX4oY7r7NZ3xxfozN",
+  "token0": {
+    "mint": "So11111111111111111111111111111111111111112",
+    "vault": "8g1UqANe1hFyN4k5mWyxgaPLs3pKi939aNBjx2ecHkWN",
+    "isToken2022": false,
+    "hasTransferHook": false,
+    "isWrappedSol": true,
+    "extensions": [],
+    "initialAmount": "500000000"
+  },
+  "token1": {
+    "mint": "3K8nTHXVgpY6G4Y8dD4jcpMWPmp9fvtYzQtYX37ypPHH",
+    "vault": "5Xv1c7Bc17A8xKj5tEqfLAPxXnKxjDZ8FHaHP3rv5oqN",
+    "isToken2022": true,
+    "hasTransferHook": true,
+    "isWrappedSol": false,
+    "extensions": [
+      "MetadataPointer",
+      "TransferHook",
+      "TokenMetadata"
+    ],
+    "initialAmount": "10000000000000"
+  },
+  "createdAt": "2025-07-24T09:09:48.298Z",
+  "createdBy": "HZSDecS7osLZLiRRA1sUsz59SFc1AEbwu9HFGnXdqhHN",
+  "network": "devnet",
+  "status": "active",
+  "txid": "4eErVaHcwaZZN9Mnutz9QrfDQ1dnFfnHEkFa9WEfEFxZVgreBLabEnvPerK6HZX671u2vYyekotAufY4j8Tpgb6G"
+}
